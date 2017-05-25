@@ -1,6 +1,6 @@
 galaxy_info:
   author: DATA
-  description: "MySQL 5.6 provision role"
+  description: "MySQL 5.7 provision role"
   company: DATA DOG
   license: BSD
   min_ansible_version: 2
@@ -12,6 +12,7 @@ galaxy_info:
 
   galaxy_tags:
     - mysql
+    - mysql57
     - centos7
 
 dependencies: []
